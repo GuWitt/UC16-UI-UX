@@ -88,7 +88,7 @@ Para cada problema encontrado, registre:
 | 2 | entrar na conta| entrou na conta| não muda nada quando eu entro na conta e não dá para saber se entrou ou não| confirmar o login|
 | 3 | inserir item no carrinho| adicionado no carrinho| adiciona e não confirma se adicionou ou não| inserir mensagem de "Adicionado ao carrinho com sucesso!"|
 | 4 | favoritar item| favoritei o produto| não alterou nada, nem pintou o coração e não tem lugar para ver os favoritos| criar um local onde mostre os favoritos e pintar o coração de vermelho|
-| 5 | entrar na conta| inserir a senha ou email errado| não comunica o erro de senha ou email| comunicar o erro ao usuário para ele saber o que fazer|
+| 5 | entrar na conta| inserir a senha ou email errado| não comunica o erro de senha ou email| comunicar o erroo ao usuário para ele saber o que fazer|
 | 6 | cadastrar na conta| inserir senha e colocar no confirmar senha outra| não comunica o erro das senhas para o usuário| comunicar o erro da senha no confirmar senha|
 | 7 | carrinho| aumentar ou diminuir quantidade| a tela não atualiza e você deve sair dela e voltar para atualizar| atualizar a cada clique a tela|
 | 8 | compra| finalizar compra| confirmar que a compra foi concluida com sucesso| notificar o comprador sobre a conclusão de compra|
